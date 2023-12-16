@@ -49,7 +49,6 @@ public class FavoriteSubjectServlet extends HttpServlet {
             out.println(Subject +"<br>");
         }
         out.println("</body></html>");
-
     }
 
 
